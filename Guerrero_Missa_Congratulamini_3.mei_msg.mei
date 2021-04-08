@@ -3,7 +3,7 @@
 	<meiHead xml:id="m-2">
 		<fileDesc xml:id="m-3">
 			<titleStmt xml:id="m-4">
-				<title xml:id="m-10">Missa Congratulamini mihi</title>
+				<title xml:id="m-10">Missa Congratulamini mihi Credo</title>
 				<composer xml:id="m-11">Francisco Guerrero (1528-1599)</composer>
 				<lyricist xml:id="m-13">Liber Primus Missarum, 1566</lyricist>
 			</titleStmt>
@@ -26,7 +26,7 @@
 		<workDesc xml:id="m-5">
 			<work xml:id="m-6">
 				<titleStmt xml:id="m-7">
-					<title xml:id="m-8">Missa Congratulamini mihi</title>
+					<title xml:id="m-8">Missa Congratulamini mihi Credo</title>
 				</titleStmt>
 				<incip xml:id="m-cc942e8a-442f-423f-be38-d8787d2b619f">
 					<score xml:id="m-851f502c-0360-4bc1-adb7-afff2fa120d7">

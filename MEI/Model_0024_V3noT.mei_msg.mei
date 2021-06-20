@@ -3,50 +3,50 @@
 	<meiHead xml:id="m-2">
 		<fileDesc xml:id="m-3">
 			<titleStmt xml:id="m-4">
-				<title xml:id="m-10" />
+				<title xml:id="m-10">Baisiez moy</title>
+				<composer xml:id="m-11">Josquin Des Prés?</composer>
 			</titleStmt>
-			<pubStmt xml:id="m-13">
-				<availability xml:id="m-14">
-					<useRestrict xml:id="m-15">Copyright CESR and Haverford College, 2012-2014. Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+			<pubStmt xml:id="m-15">
+				<availability xml:id="m-16">
+					<useRestrict xml:id="m-17">Copyright CESR and Haverford College, 2012-2014. Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
 				</availability>
 			</pubStmt>
 		</fileDesc>
-		<encodingDesc xml:id="m-16">
-			<appInfo xml:id="m-17">
-				<application xml:id="sibelius" isodate="2021-6-20T13:31:11Z" version="20200900">
-					<name xml:id="m-19" type="operating-system">Mac OS X Mountain Lion</name>
+		<encodingDesc xml:id="m-18">
+			<appInfo xml:id="m-19">
+				<application xml:id="sibelius" isodate="2021-6-20T12:36:18Z" version="20200900">
+					<name xml:id="m-21" type="operating-system">Mac OS X Mountain Lion</name>
 				</application>
 				<application xml:id="sibmei" type="plugin" version="2.1.0">
-					<name xml:id="m-21">Sibelius to MEI Exporter (2.1.0)</name>
+					<name xml:id="m-23">Sibelius to MEI Exporter (2.1.0)</name>
 				</application>
 			</appInfo>
 		</encodingDesc>
 		<workDesc xml:id="m-5">
 			<work xml:id="m-6">
 				<titleStmt xml:id="m-7">
-					<title xml:id="m-8" Susanne/>
-					<respStmt xml:id="m-9" />
+					<title xml:id="m-8">Baisiez moy</title>
 				</titleStmt>
-				<incip xml:id="m-db971dce-738c-4bd0-a588-c030478c9bcc">
-					<score xml:id="m-c649193c-eecc-41b2-ac77-c098445a137b">
-						<scoreDef xml:id="m-a88bfa3f-9453-4f3c-83b1-225973b166ed" lyric.name="Palatino" music.name="Helsinki Std" text.name="Palatino">
-							<staffGrp xml:id="m-97fe65c9-8525-4e32-b17b-a6ff30df9097">
-								<staffGrp xml:id="m-cbab4b11-bc97-46fd-9f6a-135b1b0bb636" n="1" symbol="bracket">
-									<staffDef xml:id="m-101cc381-4eb5-4cb0-ad96-3a6b4ec7b81f" clef.line="2" clef.shape="G" key.sig="0" label="Superius" lines="5" n="1">
+				<incip xml:id="m-09538309-1f6d-4c06-a9d2-1aa9679fc2ac">
+					<score xml:id="m-e3c33c84-2d97-4423-b0b1-b2ac1fae13ea">
+						<scoreDef xml:id="m-a1b2d303-cf70-4426-8839-769cde3cde80" lyric.name="Plantin MT Std" music.name="Opus Std" text.name="Plantin MT Std">
+							<staffGrp xml:id="m-2bdf7329-aac1-4af2-91f6-ab8f30f532c6">
+								<staffGrp xml:id="m-1c0f6fdd-e678-4bde-ae18-51445d732419" n="1" symbol="bracket">
+									<staffDef xml:id="m-db16a9e4-092b-44b9-8c51-b07c110f4e19" clef.line="2" clef.shape="G" key.sig="0" label="Superius" lines="5" n="1">
 										<!-- voice.female.soprano.ensemble.ah -->
-										<instrDef xml:id="m-ab61d58f-d07f-4ff3-be21-2fbe55505a1c" midi.channel="1" midi.pan="26" midi.volume="100" />
+										<instrDef xml:id="m-faac7900-2489-46de-8251-6acf03737a96" midi.channel="1" midi.pan="26" midi.volume="100" />
 									</staffDef>
-									<staffDef xml:id="m-94390fbf-5c6f-4113-83d3-013de32c98a6" clef.dis="8" clef.dis.place="below" clef.line="2" clef.shape="G" key.sig="0" label="Contratenor" lines="5" n="2">
-										<!-- voice.female.alto.ensemble.ah -->
-										<instrDef xml:id="m-682feb6b-d2de-4f9c-ab83-7aac0c7a61c9" midi.channel="1" midi.pan="46" midi.volume="100" />
-									</staffDef>
-									<staffDef xml:id="m-32da1c36-de96-4da2-b1e2-33b0905a7b80" clef.dis="8" clef.dis.place="below" clef.line="2" clef.shape="G" key.sig="0" label="Tenor" lines="5" n="3">
+									<staffDef xml:id="m-ee64a819-db5b-4f8f-879a-69d0f7f89722" clef.dis="8" clef.dis.place="below" clef.line="2" clef.shape="G" key.sig="0" label="Contratenor" lines="5" n="2">
 										<!-- voice.male.tenor.ensemble.ah -->
-										<instrDef xml:id="m-fe5e810b-24ea-4b0d-8fe0-cfd86cfe0917" midi.channel="1" midi.pan="81" midi.volume="100" />
+										<instrDef xml:id="m-5bf5cf44-1be5-4d00-b5d5-ba5eb6cf7242" midi.channel="1" midi.pan="46" midi.volume="100" />
 									</staffDef>
-									<staffDef xml:id="m-cfe30c7d-e659-4cae-9ee1-ff2cabf7b6ce" clef.line="4" clef.shape="F" key.sig="0" label="Bassus" lines="5" n="4">
+									<staffDef xml:id="m-7a1276cb-7549-4ad3-855e-cb136f47e57a" clef.dis="8" clef.dis.place="below" clef.line="2" clef.shape="G" key.sig="0" label="Tenor" lines="5" n="3">
+										<!-- voice.male.tenor.ensemble.ah -->
+										<instrDef xml:id="m-3cc7d692-8a52-45d7-b3e7-536e83998892" midi.channel="1" midi.pan="46" midi.volume="100" />
+									</staffDef>
+									<staffDef xml:id="m-f7bc2210-a2d9-4751-b171-145064de33fc" clef.line="4" clef.shape="F" key.sig="0" label="Bassus" lines="5" n="4">
 										<!-- voice.male.bass.ensemble.ah -->
-										<instrDef xml:id="m-b2fbd4a8-ba01-4bdd-ac7d-2f62928bc307" midi.channel="1" midi.pan="101" midi.volume="100" />
+										<instrDef xml:id="m-2f94fef1-fc95-4e36-a71f-ca210e2e7e8b" midi.channel="1" midi.pan="101" midi.volume="100" />
 									</staffDef>
 								</staffGrp>
 							</staffGrp>
@@ -115,7 +115,7 @@
 								</layer>
 							</staff>
 						</measure>
-						
+
 					</section>
 				</score>
 			</mdiv>

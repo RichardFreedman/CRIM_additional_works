@@ -1952,28 +1952,7 @@
 								</layer>
 							</staff>
 						</measure>
-						<measure xml:id="m-1143" n="39" right="end">
-							<staff xml:id="m-1144" n="1">
-								<layer xml:id="m-1145" n="1">
-									<note xml:id="m-1146" oct="4" pname="g" pnum="67" stem.dir="up" dur="long" dur.ges="4096p" />
-								</layer>
-							</staff>
-							<staff xml:id="m-1147" n="2">
-								<layer xml:id="m-1148" n="1">
-									<note xml:id="m-1149" oct="4" oct.ges="3" pname="d" pnum="50" stem.dir="up" dur="long" dur.ges="4096p" />
-								</layer>
-							</staff>
-							<staff xml:id="m-1150" n="3">
-								<layer xml:id="m-1151" n="1">
-									<note xml:id="m-1152" oct="3" oct.ges="2" pname="g" pnum="43" stem.dir="up" dur="long" dur.ges="4096p" />
-								</layer>
-							</staff>
-							<staff xml:id="m-1153" n="4">
-								<layer xml:id="m-1154" n="1">
-									<note xml:id="m-1155" oct="3" pname="g" pnum="55" stem.dir="down" dur="long" dur.ges="4096p" />
-								</layer>
-							</staff>
-						</measure>
+						
 					</section>
 				</score>
 			</mdiv>

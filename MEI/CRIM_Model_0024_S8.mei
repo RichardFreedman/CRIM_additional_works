@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xml:id="m-1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.music-encoding.org/ns/mei" meiversion="3.0.0">
+	<meiHead xml:id="m-2">
+		<fileDesc xml:id="m-3">
+			<titleStmt xml:id="m-4">
+				<title xml:id="m-10">Suzanne un jour</title>
+				<composer xml:id="m-11">Didier Lupi Second</composer>
+				<lyricist xml:id="m-13">Guillaume Gueroult</lyricist>
+			</titleStmt>
+			<pubStmt xml:id="m-17">
+				<availability xml:id="m-18">
+					<useRestrict xml:id="m-19">Copyright CESR and Haverford College, 2012-2014. Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</useRestrict>
+				</availability>
+			</pubStmt>
+		</fileDesc>
+		<encodingDesc xml:id="m-20">
+			<appInfo xml:id="m-21">
+				<application xml:id="sibelius" isodate="2021-6-20T12:36:44Z" version="20200900">
+					<name xml:id="m-23" type="operating-system">Mac OS X Mountain Lion</name>
+				</application>
+				<application xml:id="sibmei" type="plugin" version="2.1.0">
+					<name xml:id="m-25">Sibelius to MEI Exporter (2.1.0)</name>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<workDesc xml:id="m-5">
+			<work xml:id="m-6">
+				<titleStmt xml:id="m-7">
+					<title xml:id="m-8">Suzanne un jour</title>
+				</titleStmt>
+				<incip xml:id="m-f96d817d-7d63-4657-bdad-120d3272c143">
+					<score xml:id="m-81fd4cd6-c3da-4b02-9668-d9a62e61ec05">
+						<scoreDef xml:id="m-fbbb3862-5f25-47de-98e2-86132c05685f" lyric.name="Plantin MT Std" music.name="Opus Std" text.name="Plantin MT Std">
+							<staffGrp xml:id="m-ff5d1269-7b05-4e51-90e1-49e3cc732531">
+								<staffGrp xml:id="m-09d683a3-cfb2-431a-bd1d-7aaac69baae2" n="1" symbol="bracket">
+									<staffDef xml:id="m-8fc76479-6987-4fe1-b639-1822cdf33076" clef.line="2" clef.shape="G" key.sig="1f" label="Superius" lines="5" n="1">
+										<!-- voice.female.soprano.ensemble.ah -->
+										<instrDef xml:id="m-fc746749-92e3-4bf5-bff2-59d1803436ea" midi.channel="1" midi.pan="26" midi.volume="100" />
+									</staffDef>
+									<staffDef xml:id="m-a8586383-a3f0-44b2-aeb3-b8c172ab3da7" clef.dis="8" clef.dis.place="below" clef.line="2" clef.shape="G" key.sig="1f" label="Altus" lines="5" n="2">
+										<!-- voice.male.tenor.ensemble.ah -->
+										<instrDef xml:id="m-3d29c1b5-4881-46e8-a80a-1d2c810bd438" midi.channel="1" midi.pan="46" midi.volume="100" />
+									</staffDef>
+									<staffDef xml:id="m-11059e71-1e07-40fb-9fab-552b8ab8f8d1" clef.dis="8" clef.dis.place="below" clef.line="2" clef.shape="G" key.sig="1f" label="Tenor" lines="5" n="3">
+										<!-- voice.male.tenor.ensemble.ah -->
+										<instrDef xml:id="m-c2e58959-b44a-46a7-a9f9-f5474a53cd8e" midi.channel="1" midi.pan="81" midi.volume="100" />
+									</staffDef>
+									<staffDef xml:id="m-2583e679-8644-4ece-bcff-78019c3bbd20" clef.line="4" clef.shape="F" key.sig="1f" label="Bassus" lines="5" n="4">
+										<!-- voice.male.bass.ensemble.ah -->
+										<instrDef xml:id="m-20665b80-12ce-4b56-8180-e74ad58618c4" midi.channel="1" midi.pan="101" midi.volume="100" />
+									</staffDef>
+								</staffGrp>
+							</staffGrp>
+						</scoreDef>
+					</score>
+				</incip>
+			</work>
+		</workDesc>
+	</meiHead>
+	<music xml:id="m-26">
+		<body xml:id="m-27">
+			<mdiv xml:id="m-28">
+				<score xml:id="m-29">
+					<scoreDef xml:id="m-30" lyric.name="Plantin MT Std" meter.count="4" meter.unit="2" music.name="Opus Std" text.name="Plantin MT Std">
+						<staffGrp xml:id="m-31">
+							<staffGrp xml:id="m-44" n="1" symbol="bracket">
+								<staffDef xml:id="m-32" clef.line="2" clef.shape="G" key.sig="1f" label="Superius" lines="5" n="1">
+									<!-- voice.female.soprano.ensemble.ah -->
+									<instrDef xml:id="m-34" midi.channel="1" midi.pan="26" midi.volume="100" />
+								</staffDef>
+								<staffDef xml:id="m-35" clef.dis="8" clef.dis.place="below" clef.line="2" clef.shape="G" key.sig="1f" label="Altus" lines="5" n="2">
+									<!-- voice.male.tenor.ensemble.ah -->
+									<instrDef xml:id="m-37" midi.channel="1" midi.pan="46" midi.volume="100" />
+								</staffDef>
+								<staffDef xml:id="m-38" clef.dis="8" clef.dis.place="below" clef.line="2" clef.shape="G" key.sig="1f" label="Tenor" lines="5" n="3">
+									<!-- voice.male.tenor.ensemble.ah -->
+									<instrDef xml:id="m-40" midi.channel="1" midi.pan="81" midi.volume="100" />
+								</staffDef>
+								<staffDef xml:id="m-41" clef.line="4" clef.shape="F" key.sig="1f" label="Bassus" lines="5" n="4">
+									<!-- voice.male.bass.ensemble.ah -->
+									<instrDef xml:id="m-43" midi.channel="1" midi.pan="101" midi.volume="100" />
+								</staffDef>
+							</staffGrp>
+						</staffGrp>
+					</scoreDef>
+					<section xml:id="m-45">
+						<measure xml:id="m-46" label="1" n="1">
+							<staff xml:id="m-48" n="1">
+								<layer xml:id="m-49" n="1">
+									<rest xml:id="m-50" dur="2" dur.ges="512p" />
+									<note xml:id="m-51" dur="2" dur.ges="512p" oct="4" pname="g" pnum="67" stem.dir="up">
+										<verse xml:id="m-53" n="2">
+											<syl xml:id="m-54" wordpos="i">Fut</syl>
+										</verse>
+										<verse xml:id="m-93" n="1">
+											<syl xml:id="m-94" con="d" wordpos="i">Su</syl>
+										</verse>
+									</note>
+									<note xml:id="m-52" dur="1" dur.ges="1024p" oct="4" pname="g" pnum="67" stem.dir="up">
+										<verse xml:id="m-55" n="2">
+											<syl xml:id="m-56" wordpos="i">en</syl>
+										</verse>
+										<verse xml:id="m-95" n="1">
+											<syl xml:id="m-96" con="d" wordpos="m">san</syl>
+										</verse>
+									</note>
+								</layer>
+							</staff>
+							<staff xml:id="m-57" n="2">
+								<layer xml:id="m-58" n="1">
+									<rest xml:id="m-59" dur="2" dur.ges="512p" />
+									<note xml:id="m-60" dur="2" dur.ges="512p" oct="4" oct.ges="3" pname="d" pnum="50" stem.dir="down">
+										<verse xml:id="m-62" n="2">
+											<syl xml:id="m-63" wordpos="i">Fut</syl>
+										</verse>
+										<verse xml:id="m-110" n="1">
+											<syl xml:id="m-111" con="d" wordpos="i">Su</syl>
+										</verse>
+									</note>
+									<note xml:id="m-61" dur="1" dur.ges="1024p" oct="4" oct.ges="3" pname="d" pnum="50" stem.dir="down">
+										<verse xml:id="m-64" n="2">
+											<syl xml:id="m-65" wordpos="i">en</syl>
+										</verse>
+										<verse xml:id="m-112" n="1">
+											<syl xml:id="m-113" con="d" wordpos="m">san</syl>
+										</verse>
+									</note>
+								</layer>
+							</staff>
+							<staff xml:id="m-66" n="3">
+								<layer xml:id="m-67" n="1">
+									<rest xml:id="m-68" dur="2" dur.ges="512p" />
+									<note xml:id="m-69" dur="2" dur.ges="512p" oct="3" oct.ges="2" pname="g" pnum="43" stem.dir="up">
+										<verse xml:id="m-72" n="2">
+											<syl xml:id="m-73" wordpos="i">Fut</syl>
+										</verse>
+										<verse xml:id="m-127" n="1">
+											<syl xml:id="m-128" con="d" wordpos="i">Su</syl>
+										</verse>
+									</note>
+									<note xml:id="m-70" dur="1" dur.ges="1024p" oct="3" oct.ges="2" pname="b" pnum="46" stem.dir="down">
+										<accid xml:id="m-71" accid.ges="f" />
+										<verse xml:id="m-74" n="2">
+											<syl xml:id="m-75" wordpos="i">en</syl>
+										</verse>
+										<verse xml:id="m-129" n="1">
+											<syl xml:id="m-130" con="d" wordpos="m">san</syl>
+										</verse>
+									</note>
+								</layer>
+							</staff>
+							<staff xml:id="m-76" n="4">
+								<layer xml:id="m-77" n="1">
+									<rest xml:id="m-78" dur="2" dur.ges="512p" />
+									<note xml:id="m-79" dur="2" dur.ges="512p" oct="3" pname="g" pnum="55" stem.dir="down">
+										<verse xml:id="m-81" n="2">
+											<syl xml:id="m-82" wordpos="i">Fut</syl>
+										</verse>
+										<verse xml:id="m-145" n="1">
+											<syl xml:id="m-146" con="d" wordpos="i">Su</syl>
+										</verse>
+									</note>
+									<note xml:id="m-80" dur="1" dur.ges="1024p" oct="3" pname="g" pnum="55" stem.dir="down">
+										<verse xml:id="m-83" n="2">
+											<syl xml:id="m-84" wordpos="i">en</syl>
+										</verse>
+										<verse xml:id="m-147" n="1">
+											<syl xml:id="m-148" con="d" wordpos="m">san</syl>
+										</verse>
+									</note>
+								</layer>
+							</staff>
+						</measure>
+						
+					</section>
+				</score>
+			</mdiv>
+		</body>
+	</music>
+</mei>

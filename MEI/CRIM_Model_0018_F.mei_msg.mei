@@ -14,7 +14,7 @@
 		</fileDesc>
 		<encodingDesc xml:id="m-18">
 			<appInfo xml:id="m-19">
-				<application xml:id="sibelius" isodate="2021-6-20T12:36:18Z" version="20200900">
+				<application xml:id="sibelius" isodate="2021-6-20T13:11:21Z" version="20200900">
 					<name xml:id="m-21" type="operating-system">Mac OS X Mountain Lion</name>
 				</application>
 				<application xml:id="sibmei" type="plugin" version="2.1.0">
@@ -27,26 +27,26 @@
 				<titleStmt xml:id="m-7">
 					<title xml:id="m-8">Baisiez moy</title>
 				</titleStmt>
-				<incip xml:id="m-09538309-1f6d-4c06-a9d2-1aa9679fc2ac">
-					<score xml:id="m-e3c33c84-2d97-4423-b0b1-b2ac1fae13ea">
-						<scoreDef xml:id="m-a1b2d303-cf70-4426-8839-769cde3cde80" lyric.name="Plantin MT Std" music.name="Opus Std" text.name="Plantin MT Std">
-							<staffGrp xml:id="m-2bdf7329-aac1-4af2-91f6-ab8f30f532c6">
-								<staffGrp xml:id="m-1c0f6fdd-e678-4bde-ae18-51445d732419" n="1" symbol="bracket">
-									<staffDef xml:id="m-db16a9e4-092b-44b9-8c51-b07c110f4e19" clef.line="2" clef.shape="G" key.sig="0" label="Superius" lines="5" n="1">
+				<incip xml:id="m-2694d459-e6c4-4b0f-96af-c72ba1265e95">
+					<score xml:id="m-27ebd60a-e6cc-4c06-955d-f57566cc3f42">
+						<scoreDef xml:id="m-b4d9449e-a9da-4a98-a7ba-b0d690085962" lyric.name="Plantin MT Std" music.name="Opus Std" text.name="Plantin MT Std">
+							<staffGrp xml:id="m-26f609e2-5cc2-48c5-8cdb-da9bfff81c17">
+								<staffGrp xml:id="m-4efb578d-69d6-469c-b8a3-9aec7ab2d384" n="1" symbol="bracket">
+									<staffDef xml:id="m-a576c32b-1cbc-49e6-845f-f6c2d99a7bb8" clef.line="2" clef.shape="G" key.sig="0" label="Superius" lines="5" n="1">
 										<!-- voice.female.soprano.ensemble.ah -->
-										<instrDef xml:id="m-faac7900-2489-46de-8251-6acf03737a96" midi.channel="1" midi.pan="26" midi.volume="100" />
+										<instrDef xml:id="m-10e2cb29-01de-4d9d-9202-1ccae3673793" midi.channel="1" midi.pan="26" midi.volume="100" />
 									</staffDef>
-									<staffDef xml:id="m-ee64a819-db5b-4f8f-879a-69d0f7f89722" clef.dis="8" clef.dis.place="below" clef.line="2" clef.shape="G" key.sig="0" label="Contratenor" lines="5" n="2">
+									<staffDef xml:id="m-bdd19fec-749b-46b5-a70d-9c2698262564" clef.dis="8" clef.dis.place="below" clef.line="2" clef.shape="G" key.sig="0" label="Contratenor" lines="5" n="2">
 										<!-- voice.male.tenor.ensemble.ah -->
-										<instrDef xml:id="m-5bf5cf44-1be5-4d00-b5d5-ba5eb6cf7242" midi.channel="1" midi.pan="46" midi.volume="100" />
+										<instrDef xml:id="m-e23b32b4-f244-4f91-98d4-94e2d7cee4e2" midi.channel="1" midi.pan="46" midi.volume="100" />
 									</staffDef>
-									<staffDef xml:id="m-7a1276cb-7549-4ad3-855e-cb136f47e57a" clef.dis="8" clef.dis.place="below" clef.line="2" clef.shape="G" key.sig="0" label="Tenor" lines="5" n="3">
+									<staffDef xml:id="m-fb4f07b9-2f0a-4489-b4c2-eadf50b616bc" clef.dis="8" clef.dis.place="below" clef.line="2" clef.shape="G" key.sig="0" label="Tenor" lines="5" n="3">
 										<!-- voice.male.tenor.ensemble.ah -->
-										<instrDef xml:id="m-3cc7d692-8a52-45d7-b3e7-536e83998892" midi.channel="1" midi.pan="46" midi.volume="100" />
+										<instrDef xml:id="m-e41dabb9-eccd-4897-af49-8959838e58b6" midi.channel="1" midi.pan="46" midi.volume="100" />
 									</staffDef>
-									<staffDef xml:id="m-f7bc2210-a2d9-4751-b171-145064de33fc" clef.line="4" clef.shape="F" key.sig="0" label="Bassus" lines="5" n="4">
+									<staffDef xml:id="m-260dd067-441b-416d-b021-c056325f784d" clef.line="4" clef.shape="F" key.sig="0" label="Bassus" lines="5" n="4">
 										<!-- voice.male.bass.ensemble.ah -->
-										<instrDef xml:id="m-2f94fef1-fc95-4e36-a71f-ca210e2e7e8b" midi.channel="1" midi.pan="101" midi.volume="100" />
+										<instrDef xml:id="m-5947a00a-97c4-4a00-98cc-7f78a8aa23fc" midi.channel="1" midi.pan="101" midi.volume="100" />
 									</staffDef>
 								</staffGrp>
 							</staffGrp>
@@ -131,7 +131,7 @@
 								<layer xml:id="m-83" n="1">
 									<note xml:id="m-84" dur="2" dur.ges="512p" oct="4" oct.ges="3" pname="d" pnum="50" stem.dir="down" />
 									<note xml:id="m-85" dur="4" dur.ges="256p" oct="4" oct.ges="3" pname="c" pnum="49" stem.dir="down">
-										<supplied xml:id="m-e97ae14e-6d0b-40b7-abdb-1daef02d1bb7" reason="edit">
+										<supplied xml:id="m-2ca2aa07-e684-4e58-8b3c-762e35646dac" reason="edit">
 											<accid xml:id="m-86" accid="s" func="edit" place="above" />
 										</supplied>
 									</note>
@@ -140,7 +140,7 @@
 										<verse xml:id="m-92" n="1">
 											<syl xml:id="m-93" wordpos="t">siez</syl>
 										</verse>
-										<supplied xml:id="m-561f5157-a39e-46b8-99a8-51c839bb13e7" reason="edit">
+										<supplied xml:id="m-02cbe778-eff6-4dad-9147-30da48c3810c" reason="edit">
 											<accid xml:id="m-89" accid="s" func="edit" place="above" />
 										</supplied>
 									</note>
@@ -170,7 +170,7 @@
 								<layer xml:id="m-106" n="1">
 									<note xml:id="m-107" dur="2" dur.ges="512p" oct="4" pname="g" pnum="67" stem.dir="up" />
 									<note xml:id="m-108" dur="4" dur.ges="256p" oct="4" pname="f" pnum="66" stem.dir="up">
-										<supplied xml:id="m-7b757334-7cd2-431a-83ca-e8f73e72b4b9" reason="edit">
+										<supplied xml:id="m-f8bf4df9-a4c7-4928-a096-2b9f52787f64" reason="edit">
 											<accid xml:id="m-109" accid="s" func="edit" place="above" />
 										</supplied>
 									</note>
@@ -179,7 +179,7 @@
 										<verse xml:id="m-115" n="1">
 											<syl xml:id="m-116" wordpos="t">siez</syl>
 										</verse>
-										<supplied xml:id="m-7729ec1a-1098-4a28-8656-005ddd6f8960" reason="edit">
+										<supplied xml:id="m-fb0f93e1-7bdc-4f4f-acef-8a14139d62af" reason="edit">
 											<accid xml:id="m-112" accid="s" func="edit" place="above" />
 										</supplied>
 									</note>
@@ -283,7 +283,7 @@
 										<verse xml:id="m-175" n="1">
 											<syl xml:id="m-176" wordpos="t">siez</syl>
 										</verse>
-										<supplied xml:id="m-68363e64-5104-47b9-9ef8-87b1bf478ceb" reason="edit">
+										<supplied xml:id="m-75aa2506-85ea-4e91-b59f-719500250af0" reason="edit">
 											<accid xml:id="m-172" accid="s" func="edit" place="above" />
 										</supplied>
 									</note>
@@ -699,7 +699,7 @@
 										<verse xml:id="m-454" n="1">
 											<syl xml:id="m-455" con="d" wordpos="m">mi</syl>
 										</verse>
-										<supplied xml:id="m-829588c7-6e9b-4405-8322-74dc2e6c3ac2" reason="edit">
+										<supplied xml:id="m-622f8f24-7c28-4352-b4fd-2839b3bc4ebb" reason="edit">
 											<accid xml:id="m-410" accid="f" func="edit" place="above" />
 										</supplied>
 									</note>
@@ -727,7 +727,7 @@
 										<verse xml:id="m-435" n="1">
 											<syl xml:id="m-436" wordpos="i">vous</syl>
 										</verse>
-										<supplied xml:id="m-98418215-95f6-47ab-a4a1-3740f834eb0b" reason="edit">
+										<supplied xml:id="m-4b0e6c57-b58e-41ee-aeb0-8df60046d226" reason="edit">
 											<accid xml:id="m-432" accid="f" func="edit" place="above" />
 										</supplied>
 									</note>
@@ -735,7 +735,7 @@
 										<verse xml:id="m-437" n="1">
 											<syl xml:id="m-438" wordpos="i">en</syl>
 										</verse>
-										<supplied xml:id="m-c5d053b7-b720-4ee3-ab8b-50d663630a96" reason="edit">
+										<supplied xml:id="m-e3a39ec1-57b1-46e0-9c2b-c2577d6d5307" reason="edit">
 											<accid xml:id="m-434" accid="f" func="edit" place="above" />
 										</supplied>
 									</note>
@@ -816,7 +816,7 @@
 										<verse xml:id="m-490" n="1">
 											<syl xml:id="m-491" con="d" wordpos="i">a</syl>
 										</verse>
-										<supplied xml:id="m-6c1c5298-8215-4c52-9d47-d678f46ca1f7" reason="edit">
+										<supplied xml:id="m-dc8c516d-5576-4588-81e5-5d3464a9d22a" reason="edit">
 											<accid xml:id="m-487" accid="f" func="edit" place="above" />
 										</supplied>
 									</note>
@@ -906,7 +906,7 @@
 										<verse xml:id="m-565" n="1">
 											<syl xml:id="m-566" con="d" wordpos="i">fe</syl>
 										</verse>
-										<supplied xml:id="m-aa1a6b98-5ea1-4f58-b41d-81f490c99415" reason="edit">
+										<supplied xml:id="m-811be991-940c-4df7-8b93-2b4c79722df8" reason="edit">
 											<accid xml:id="m-545" accid="f" func="edit" place="above" />
 										</supplied>
 									</note>
@@ -921,7 +921,7 @@
 										<verse xml:id="m-552" n="1">
 											<syl xml:id="m-553" wordpos="i">en</syl>
 										</verse>
-										<supplied xml:id="m-aafa5327-c940-4ccf-894d-6fd5f1930a7d" reason="edit">
+										<supplied xml:id="m-50330723-55e1-43a7-8660-51f023a0388d" reason="edit">
 											<accid xml:id="m-551" accid="s" func="edit" place="above" />
 										</supplied>
 									</note>
@@ -1029,7 +1029,7 @@
 										<verse xml:id="m-638" n="1">
 											<syl xml:id="m-639" con="d" wordpos="i">fe</syl>
 										</verse>
-										<supplied xml:id="m-c2a748c0-7d79-4c14-bbb5-11e56a97f559" reason="edit">
+										<supplied xml:id="m-1cd4648a-a11c-48c6-abfb-06421fbf261e" reason="edit">
 											<accid xml:id="m-619" accid="s" func="edit" place="above" />
 										</supplied>
 									</note>
@@ -1453,7 +1453,7 @@
 										<verse xml:id="m-894" n="1">
 											<syl xml:id="m-895" con="d" wordpos="m">li</syl>
 										</verse>
-										<supplied xml:id="m-1d65c92a-f1f8-419a-a65b-50e88d6ba15a" reason="edit">
+										<supplied xml:id="m-3a65d76b-c08e-4ce7-a858-39de1ed2d8d7" reason="edit">
 											<accid xml:id="m-856" accid="f" func="edit" place="above" />
 										</supplied>
 									</note>
@@ -1481,7 +1481,7 @@
 										<verse xml:id="m-880" n="1">
 											<syl xml:id="m-881" wordpos="t">rait</syl>
 										</verse>
-										<supplied xml:id="m-1cd458b6-1b8a-43c7-98d6-23f08d909be9" reason="edit">
+										<supplied xml:id="m-8d071ef1-369c-4cc0-a464-f274bd5c3f10" reason="edit">
 											<accid xml:id="m-875" accid="f" func="edit" place="above" />
 										</supplied>
 									</note>
@@ -1489,7 +1489,7 @@
 										<verse xml:id="m-954" n="1">
 											<syl xml:id="m-955" con="d" wordpos="i">mor</syl>
 										</verse>
-										<supplied xml:id="m-fa819b46-af10-46a6-a72d-aa5eaf763f9f" reason="edit">
+										<supplied xml:id="m-7a089fed-6f52-416e-bea6-1c42a3e778dc" reason="edit">
 											<accid xml:id="m-877" accid="f" func="edit" place="above" />
 										</supplied>
 									</note>
@@ -1547,7 +1547,7 @@
 										</verse>
 									</note>
 									<note xml:id="m-914" dur="4" dur.ges="256p" oct="3" oct.ges="2" pname="b" pnum="46" stem.dir="down">
-										<supplied xml:id="m-283259f3-9572-4ce1-99f3-172793133907" reason="edit">
+										<supplied xml:id="m-0f6e6173-5624-43d3-b440-3cfc6d0ea835" reason="edit">
 											<accid xml:id="m-915" accid="f" func="edit" place="above" />
 										</supplied>
 									</note>
@@ -1580,7 +1580,7 @@
 										<verse xml:id="m-935" n="1">
 											<syl xml:id="m-936" con="d" wordpos="i">mè</syl>
 										</verse>
-										<supplied xml:id="m-6219c632-1957-4899-83fb-b190005d4de1" reason="edit">
+										<supplied xml:id="m-e9c2626a-300e-4510-8d54-66e24d3f5950" reason="edit">
 											<accid xml:id="m-932" accid="f" func="edit" place="above" />
 										</supplied>
 									</note>
@@ -1674,7 +1674,7 @@
 										<verse xml:id="m-996" n="1">
 											<syl xml:id="m-997" wordpos="i">de</syl>
 										</verse>
-										<supplied xml:id="m-58b94e63-d885-4a30-9ad9-91d82c87b43f" reason="edit">
+										<supplied xml:id="m-1e726ddd-6ffa-49b0-8986-3c66b4775f45" reason="edit">
 											<accid xml:id="m-995" accid="f" func="edit" place="above" />
 										</supplied>
 									</note>
@@ -1689,7 +1689,7 @@
 										<verse xml:id="m-1025" n="1">
 											<syl xml:id="m-1026" con="d" wordpos="i">mor</syl>
 										</verse>
-										<supplied xml:id="m-0b93a404-0071-4b6c-8803-838d2a0fc6ef" reason="edit">
+										<supplied xml:id="m-09c04333-bc04-441b-a234-c02c82ef6e64" reason="edit">
 											<accid xml:id="m-1003" accid="s" func="edit" place="above" />
 										</supplied>
 									</note>
@@ -1826,7 +1826,7 @@
 										<verse xml:id="m-1085" n="1">
 											<syl xml:id="m-1086" wordpos="i">de</syl>
 										</verse>
-										<supplied xml:id="m-a0c091a0-cb42-442c-8e99-5799cc2a6fe1" reason="edit">
+										<supplied xml:id="m-33ebb0ad-1930-4598-a895-313dd4c246cb" reason="edit">
 											<accid xml:id="m-1077" accid="f" func="edit" place="above" />
 										</supplied>
 									</note>
@@ -1839,7 +1839,7 @@
 									<note xml:id="m-1089" dur="2" dur.ges="512p" oct="4" oct.ges="3" pname="d" pnum="50" stem.dir="down" />
 									<note xml:id="m-1090" dur="4" dur.ges="256p" oct="4" oct.ges="3" pname="c" pnum="48" stem.dir="down" />
 									<note xml:id="m-1091" dur="4" dur.ges="256p" oct="3" oct.ges="2" pname="b" pnum="46" stem.dir="down">
-										<supplied xml:id="m-4adb5503-c4b1-4c87-9647-aa38b1f04910" reason="edit">
+										<supplied xml:id="m-764bfb58-02c4-4c1b-9943-a8981f23df8e" reason="edit">
 											<accid xml:id="m-1092" accid="f" func="edit" place="above" />
 										</supplied>
 									</note>
@@ -1865,7 +1865,7 @@
 										<verse xml:id="m-1108" n="1">
 											<syl xml:id="m-1109" wordpos="i">de</syl>
 										</verse>
-										<supplied xml:id="m-fd50ac88-7c0f-40ac-a5e8-4318261f470f" reason="edit">
+										<supplied xml:id="m-e823b960-90d4-40be-bf5d-fb20c5b9bb42" reason="edit">
 											<accid xml:id="m-1107" accid="f" func="edit" place="above" />
 										</supplied>
 									</note>
@@ -1877,13 +1877,13 @@
 								<layer xml:id="m-1112" n="1">
 									<note xml:id="m-1113" dur="2" dur.ges="512p" oct="4" pname="g" pnum="67" stem.dir="up" />
 									<note xml:id="m-1114" dur="4" dur.ges="256p" oct="4" pname="f" pnum="66" stem.dir="up">
-										<supplied xml:id="m-9d3684f8-005b-4418-9086-2ad35999168b" reason="edit">
+										<supplied xml:id="m-f8c5ba9c-540b-4757-8b87-77ae03cdfd22" reason="edit">
 											<accid xml:id="m-1115" accid="s" func="edit" place="above" />
 										</supplied>
 									</note>
 									<note xml:id="m-1116" dur="4" dur.ges="256p" oct="4" pname="e" pnum="64" stem.dir="up" />
 									<note xml:id="m-1117" dur="1" dur.ges="1024p" oct="4" pname="f" pnum="66" stem.dir="up">
-										<supplied xml:id="m-5eed64f5-ccca-4e51-9e7b-2f1f0934f8b0" reason="edit">
+										<supplied xml:id="m-83b1a085-9cba-44e3-b93f-4851945e441e" reason="edit">
 											<accid xml:id="m-1118" accid="s" func="edit" place="above" />
 										</supplied>
 									</note>
